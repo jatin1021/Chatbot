@@ -16,7 +16,7 @@ Project is created with:
 To run this project, install it locally and launch the code using a IDE
 java Chatbot.java
 
-##Usage
+## Usage
 -The chatbot will start by asking you a question or statement. 
 ("Hello, user!", "What's up friend!", "Thanks for chatting with me!", "Hello!", "How's it going?","How are you doing?", "Good Morning", "Good Afternoon!", "Good Evening!", "What's up?”)
 -Then if the user replies with a pre defined phrase
